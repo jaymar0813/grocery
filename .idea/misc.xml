@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/drawable/bg.xml" value="0.33" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/drawable/button_bg.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/drawable/code.xml" value="0.3828125" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/drawable/custom.xml" value="0.2712962962962963" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/drawable/date.xml" value="0.3828125" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/drawable/ic_baseline_accessibility_24.xml" value="0.2712962962962963" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/drawable/ic_baseline_arrow_upward_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2712962962962963" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/drawable/ic_baseline_local_parking_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/drawable/ic_baseline_lock.xml" value="0.2712962962962963" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/drawable/ic_baseline_verified_user_24.xml" value="0.2712962962962963" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/drawable/newbutton.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/drawable/op.xml" value="0.3828125" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/drawable/product.xml" value="0.3828125" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/drawable/quan.xml" value="0.3828125" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/layout/activity_add_product.xml" value="0.315625" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/layout/activity_addproduct.xml" value="0.25" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/layout/activity_inventory.xml" value="0.25" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/layout/activity_product_list.xml" value="0.265625" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/layout/activity_productdata.xml" value="0.360054347826087" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/layout/activity_reselleregister.xml" value="0.25" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/layout/activity_resellerlogin.xml" value="0.22" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/layout/activity_scan_code.xml" value="0.3645833333333333" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/layout/activity_seller.xml" value="0.25" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/layout/content_insert_p.xml" value="0.32760416666666664" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/layout/data.xml" value="0.360054347826087" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/layout/plist.xml" value="0.2015625" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/layout/product.xml" value="0.315625" />
+        <entry key="..\:/Users/jmarl/AndroidStudioProjects/DCOD32/app/src/main/res/layout/productlist.xml" value="0.360054347826087" />
+        <entry key="..\:/Users/jmarl/OneDrive/Desktop/New folder/DCOD32/app/src/main/res/layout/activity_add_product.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/jmarl/OneDrive/Desktop/New folder/DCOD32/app/src/main/res/layout/activity_buyprod.xml" value="0.25" />
+        <entry key="..\:/Users/jmarl/OneDrive/Desktop/New folder/DCOD32/app/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/jmarl/OneDrive/Desktop/New folder/DCOD32/app/src/main/res/layout/activity_prodlist.xml" value="0.3473731884057971" />
+        <entry key="..\:/Users/jmarl/OneDrive/Desktop/New folder/DCOD32/app/src/main/res/layout/activity_product_list.xml" value="0.3473731884057971" />
+        <entry key="..\:/Users/jmarl/OneDrive/Desktop/New folder/DCOD32/app/src/main/res/layout/activity_reselleregister.xml" value="0.1859375" />
+        <entry key="..\:/Users/jmarl/OneDrive/Desktop/New folder/DCOD32/app/src/main/res/layout/activity_resellerlogin.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/jmarl/OneDrive/Desktop/New folder/DCOD32/app/src/main/res/layout/activity_scan_code.xml" value="0.3523550724637681" />
+        <entry key="..\:/Users/jmarl/OneDrive/Desktop/New folder/DCOD32/app/src/main/res/layout/data.xml" value="0.3374094202898551" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/drawable/bg.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/drawable/button_shape.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/drawable/ic_baseline_accessibility_24.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/drawable/ic_baseline_arrow_upward_24.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/drawable/ic_baseline_lock.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/drawable/ic_baseline_verified_user_24.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/drawable/ic_launcher_background.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/drawable/ic_wave.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/drawable/newbutton.xml" value="0.315625" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/layout/activity_add_product.xml" value="0.33" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/layout/activity_buyprod.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/layout/activity_prodlist.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/layout/activity_product_list.xml" value="0.25" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/layout/activity_reselleregister.xml" value="0.22" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/layout/activity_resellerlogin.xml" value="0.33" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/layout/activity_scan_code.xml" value="0.3625" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/layout/activity_select_item.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/layout/activity_seller.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/layout/activity_seller2.xml" value="0.25" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/layout/data.xml" value="0.3625" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/layout/fragment_first.xml" value="0.3625" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/layout/fragment_second.xml" value="0.3625" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/layout/item1.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/jmarl/StudioProjects/DCOD32/app/src/main/res/layout/item2.xml" value="0.20520833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
